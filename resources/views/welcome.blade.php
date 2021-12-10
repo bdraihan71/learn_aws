@@ -37,7 +37,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-               <H1>Raihan Farhad</H1>
+               <H1>Sudip</H1>
             </div>
         </div>
     </body>
